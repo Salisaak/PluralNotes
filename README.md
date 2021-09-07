@@ -9,5 +9,7 @@ git checkout | -b to create a new brand and checkout////
 git branch | crates a branch without checking out////
 git mv | rename file////
 git rm | remove file from folder////
+
+
 stages of a project-- working directory,index,repo////
 .
